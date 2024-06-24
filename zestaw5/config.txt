@@ -1,0 +1,7 @@
+canvas_width 20
+canvas_height 30
+output_file output.txt
+empty_pixel 
+figure rectangle 10 5 8 4 #
+figure square 10 15 5 @
+figure circle 10 25 4 *
